@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+        <title>profil saya - Jufita </title>
+        <link rel="stylesheet" href="style.css">
+</head>
+<body>
+      <div class="katu-profil">
+      <img src="foto-profil.jpg" alt="foto profil saya">
+      <h1>Jufita Sari Izha alfiana</h1>
+      <p>Saya adalah siswa yang tertarik dengan teklogi dan desain.Oleh karena ini saya ikut pelantikan TIK
+      <a href="https://www.instagram.com/alpangantengpol">Kunjungi Isntagram saya</a>
+  </div>
+<script src="script.js"></script>
+</body>
+<html>
+        
